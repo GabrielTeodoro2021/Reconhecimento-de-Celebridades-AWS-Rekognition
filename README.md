@@ -1,19 +1,19 @@
 ﻿# Reconhecimento-de-Celebridades-AWS-Rekognition
 
-Projeto usado para exemplificar o uso do AWS Rekognition no reconhecimento dos rostos de celebridades.
+## Projeto usado para exemplificar o uso do AWS Rekognition no reconhecimento dos rostos de celebridades.
 
-Pré requisitos:
+## Pré requisitos:
  - Python
  - Uv
  - Conta AWS
 
-Configuração do ambiente:
+## Configuração do ambiente:
 É necessário configurar um usuário no IAM com acesso ao serviço Rekognition.
 
-Instalação
+## Instalação:
 Para instalar as dependências do projeto utilize o comando:
 
  - uv install
 
-Execução:
+## Execução:
  - uv run main.py
